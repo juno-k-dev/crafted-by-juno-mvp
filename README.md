@@ -20,9 +20,13 @@
 
 crafted-by-juno/
 ├── client/ # React frontend
+
 ├── server/ # Python backend (FastAPI/Flask)
+
 ├── firebase/ # Firebase Auth config
+
 ├── docs/ # Documentation
+
 └── README.md
 
 
