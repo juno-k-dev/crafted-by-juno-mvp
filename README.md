@@ -19,6 +19,7 @@
 ## 📁 Project Structure
 
 crafted-by-juno/
+
 ├── client/ # React frontend
 
 ├── server/ # Python backend (FastAPI/Flask)
